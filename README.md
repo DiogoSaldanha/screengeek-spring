@@ -1,2 +1,2 @@
 # screengeek-spring
-Projeto simples utilizando Spring (em desenvolvimento).
+Projeto simples ainda em desenvolvimento utilizando Spring baseado no projeto que fiz para praticar POO.

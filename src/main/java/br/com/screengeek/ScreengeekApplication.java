@@ -1,7 +1,6 @@
 package br.com.screengeek;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 import org.springframework.boot.CommandLineRunner;
